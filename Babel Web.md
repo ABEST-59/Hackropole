@@ -17,8 +17,8 @@ Accéder à l'épreuve à l'adresse http://localhost:8000/.
   
   Avec le mode debugeur de EDGE (F12), nous avons une section en commentaire
     "<!-- <a href="?source=1">source</a> -->"
-  Il faut decommenter cette section : "<a href="?source=1">source</a>"
-  Reactualisez la page, nous avons maintenant un lien sources
+  Il faut decommenter cette section : <a href="?source=1">source</a>
+  Reactualisez la page, nous avons maintenant un lien source qui est apparu
   
   Acceder sur le site http://localhost:8000/?code=ls
     la cmd ls permet de lister les fichiers sous linux via la variable code
