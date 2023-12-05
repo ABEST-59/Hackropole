@@ -1,12 +1,12 @@
 # ETAPE 1:
 Pour commencer, téléchargez le fichier docker-compose.yml :
 curl https://hackropole.fr/challenges/fcsc2020-web-babel-web/docker-compose.public.yml -o docker-compose.yml
-ETAPE 2:
+# ETAPE 2:
 Lancez l'épreuve en exécutant dans le même dossier :
 docker compose up
-ETAPE 3:
+# ETAPE 3:
 Accéder à l'épreuve à l'adresse http://localhost:8000/.
-
+# ETAPE 4:
 Le premier constat est que le site n'est pas sécurisé (HTTPS)
 Nous pouvons avoir un peu plus d'information avec extention wappalyzer
   OS:DEBIAN
