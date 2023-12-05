@@ -1,5 +1,6 @@
 # ETAPE 1:
-Pour commencer, téléchargez le fichier docker-compose.yml :
+Pour commencer
+Téléchargez le fichier docker-compose.yml :
 curl https://hackropole.fr/challenges/fcsc2020-web-babel-web/docker-compose.public.yml -o docker-compose.yml
 # ETAPE 2:
 Lancez l'épreuve en exécutant dans le même dossier :
