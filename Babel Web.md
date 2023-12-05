@@ -16,8 +16,8 @@ Accéder à l'épreuve à l'adresse http://localhost:8000/.
   Le premier constat est que le site n'est pas sécurisé (HTTPS)
   
   Avec le mode debugeur de EDGE (F12), nous avons une section en commentaire
-    <!-- <a href="?source=1">source</a> -->
-  Il faut decommenter cette section : <a href="?source=1">source</a>
+    "<!-- <a href="?source=1">source</a> -->"
+  Il faut decommenter cette section : "<a href="?source=1">source</a>"
   Reactualisez la page, nous avons maintenant un lien sources
   
   Acceder sur le site http://localhost:8000/?code=ls
